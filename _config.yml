@@ -23,7 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sanna Jarl"
-  bio              : "PhD student in ML at Uppsala University | Research Institutes of Sweden
+  bio              : "PhD student in ML at 
+  Uppsala University | Research Institutes of Sweden
+  
   
   Research interests include active learning, Gaussian processes, Bayesian optimization, ML for science."
   uri              : # URL
