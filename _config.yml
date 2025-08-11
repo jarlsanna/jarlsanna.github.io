@@ -12,6 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title_separator          : "-"
 name                     : &name "Sanna Jarl"
 description              : "Research interests include active learning, Gaussian processes, Bayesian optimization, ML for science."
+url                      : "https://jarlsanna.github.io/"
 repository               : "jarlsanna/jarlsanna.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
