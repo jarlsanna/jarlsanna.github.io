@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "&#8962;"
+title                    : "⌂"
 title_separator          : "-"
 name                     : &name "Sanna Jarl"
 description              : "Research interests include active learning, Gaussian processes, Bayesian optimization, ML for science."
